@@ -19,5 +19,10 @@ namespace ConsoleApp13
         {
             Console.WriteLine(123);
         }
+
+        void aaaaaaaa()
+        {
+            Console.WriteLine(438);
+        }
     }
 }
